@@ -1,0 +1,7 @@
+hardware/color_demo
+software/*
+!software/color_demo
+software/color_demo/*
+!software/color_demo/src
+software/color_demo/src/Xilinx.spec
+software/color_demo/src/lscript.ld
